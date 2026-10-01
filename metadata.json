@@ -1,0 +1,6 @@
+{
+  "name": "AURUM Service Intelligence Backend",
+  "description": "Enterprise Service Operations Command Center Backend API with Health & Risk Engine, IoT Anomaly Detection, Fault Analytics, Maintenance Cadence, Contracts, and AI Assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
